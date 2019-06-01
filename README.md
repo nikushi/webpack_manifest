@@ -1,1 +1,3 @@
-The project name WebpackManifest was changed to Minipack https://github.com/nikushi/minipack
+# WebpackManifest
+
+## The project name WebpackManifest was renamed as Minipack https://github.com/nikushi/minipack
